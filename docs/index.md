@@ -1,4 +1,4 @@
-# Projecte col·laboratiu CFGS DAW
+# Projecte col·laboratiu CFGS DAW 2025-2026
 
 ## 🎯 Objectius de la pràctica
 Aquesta activitat té com a objectiu introduir l’alumnat en el flux de treball col·laboratiu amb **GitHub** i **MkDocs**, simulant la contribució a un projecte real de documentació tècnica.
